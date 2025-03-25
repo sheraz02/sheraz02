@@ -5,7 +5,7 @@ I'm a self-taught developer passionate about building scalable web applications.
 
 ### 🔥 Skills & Technologies:
 - **Backend**: Django, DRF, PostgreSQL, REST APIs
-- **Frontend**: React.js, JavaScript, Tailwind CSS
+- **Frontend**: React.js, JavaScript
 - **Tools**: Git, GitHub, Bitbucket, Docker
 
 ### 📈 GitHub Stats:
