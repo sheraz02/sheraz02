@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Sheraz Ahmad!
-### 🚀 Backend Developer | Django & DRF Expert | React Enthusiast
+### 🚀 Backend Developer DevOps Engineer | Django & DRF Expert | React Enthusiast
 
-I'm a self-taught developer passionate about building scalable web applications.
+I'm a self-taught full-stack developer passionate about building scalable, high-performance web applications. I enjoy tackling challenging problems and integrating DevOps practices to streamline development and deployment processes.
 
 ### 🔥 Skills & Technologies:
-- **Backend**: Django, DRF, PostgreSQL, REST APIs
-- **Frontend**: React.js, JavaScript
-- **Tools**: Git, GitHub, Bitbucket, Docker
+- **Backend:** Django, DRF, PostgreSQL, REST APIs, NodeJs
+- **Frontend:** NextJs, React.js, JavaScript
+- **DevOps & Cloud:** Jenkins, AWS, Docker, Kubernetes
+- **Tools:** Git, GitHub, Bitbucket, Jira, Atlassian Suite
 
 ### 📈 GitHub Stats:
 ![Sheraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherazahmad&show_icons=true&theme=dark)
