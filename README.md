@@ -7,19 +7,10 @@
 <br/>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sheraz02/"><img src="https://img.shields.io/badge/Sheraz%20Ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:-sheraz.ahmad8814@gmail.com"><img src="https://img.shields.io/badge/-sheraz.ahmad8814@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
-<div align="center">
 <a href="https://www.linkedin.com/in/sheraz8814/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-</a>
-
-<a href="https://github.com/sheraz02">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
-</a>
-
+</a><a href="mailto:-sheraz.ahmad8814@gmail.com"><img src="https://img.shields.io/badge/-sheraz.ahmad8814@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 </div>
 
 ### 🚀 Backend Developer DevOps Engineer | Django & DRF Expert | React Enthusiast
