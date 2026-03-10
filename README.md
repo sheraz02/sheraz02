@@ -1,16 +1,16 @@
  <div align="center">
-    <h1> Hi there, I'm Zeeshan Ashraf🚀<a href="#"></h1>
+    <h1> Hi there, I'm Sheraz Ahmad🚀<a href="#"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/sheraz02"><img src="https://readme-typing-svg.herokuapp.com?lines=NodeJs+And+NestJs+Developer;Senior+Backend+Engineer;AWS+And+Oracle+Cloud+Consultant;MERN+STACK+Developer&center=true&width=500&height=50"></a>
-  
-
-
 
 <br/>
-<br/>
 
-### 📫 Connect with me
+<p align="center">
+<a href="https://www.linkedin.com/in/sheraz02/"><img src="https://img.shields.io/badge/Sheraz%20Ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:-sheraz.ahmad8814@gmail.com"><img src="https://img.shields.io/badge/-sheraz.ahmad8814@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
 <div align="center">
 <a href="https://www.linkedin.com/in/sheraz8814/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
