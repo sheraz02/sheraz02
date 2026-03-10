@@ -13,15 +13,14 @@
 </p>
 </div>
 
-### 🚀 Backend Developer DevOps Engineer | Django & DRF Expert | React Enthusiast
-
-I'm a self-taught full-stack developer passionate about building scalable, high-performance web applications. I enjoy tackling challenging problems and integrating DevOps practices to streamline development and deployment processes.
-
-### 🔥 Skills & Technologies:
-- **Backend:** Django, DRF, PostgreSQL, REST APIs, NodeJs
-- **Frontend:** NextJs, React.js, JavaScript
-- **DevOps & Cloud:** Jenkins, AWS, Docker, Kubernetes
-- **Tools:** Git, GitHub, Bitbucket, Jira, Atlassian Suite
+### Backend Developer | DevOps Engineer | Django & DRF Specialist
+- 🔭 Currently building scalable backend systems and production-ready web applications using modern frameworks and cloud technologies.
+- 🌱 Continuously learning and experimenting with cloud-native development, automation, and high-performance architectures.
+- 👯 Open to collaborating on backend-heavy projects, SaaS platforms, and open-source initiatives.
+- 💬 Ask me about Django, Django REST Framework, PostgreSQL, Node.js, and scalable API design.
+- 🥅 Goals: Build reliable systems, improve DevOps workflows, and contribute to impactful open-source projects.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy solving complex backend problems and optimizing systems for performance and scalability.
 
  <h2>Tech Stack</h2>
 
