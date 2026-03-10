@@ -10,7 +10,7 @@ I'm a self-taught full-stack developer passionate about building scalable, high-
 - **Tools:** Git, GitHub, Bitbucket, Jira, Atlassian Suite
 
 ### 📈 GitHub Stats:
-![Sheraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherazahmad&show_icons=true&theme=dark)
+![Sheraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheraz02&show_icons=true&theme=dark)
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sheraz8814/)
