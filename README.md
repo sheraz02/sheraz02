@@ -112,11 +112,3 @@ I'm a self-taught full-stack developer passionate about building scalable, high-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sheraz02&theme=tokyonight)
-
-### 📫 Connect with me
-
-<a href="https://www.linkedin.com/in/sheraz8814/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-</a>
-
-</div>
