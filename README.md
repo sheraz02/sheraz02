@@ -11,9 +11,18 @@ I'm a self-taught full-stack developer passionate about building scalable, high-
 
 ### 📊 GitHub Stats
 
-![Sheraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheraz02&show_icons=true&theme=tokyonight)
+<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sheraz02&theme=tokyonight)
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sheraz8814/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/sheraz02)
+
+### 📫 Connect with me
+
+<a href="https://www.linkedin.com/in/sheraz8814/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+</a>
+
+<a href="https://github.com/sheraz02">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
+</a>
+
+</div>
