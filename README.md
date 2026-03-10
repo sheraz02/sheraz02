@@ -1,11 +1,7 @@
 # 👋 Hi, I'm Sheraz Ahmad!
-### 🚀 Backend Developer DevOps Engineer | Django & DRF Expert | React Enthusiast
 
-I'm a self-taught full-stack developer passionate about building scalable, high-performance web applications. I enjoy tackling challenging problems and integrating DevOps practices to streamline development and deployment processes.
-
-<div align="center">
 ### 📫 Connect with me
-
+<div align="center">
 <a href="https://www.linkedin.com/in/sheraz8814/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
 </a>
@@ -15,6 +11,10 @@ I'm a self-taught full-stack developer passionate about building scalable, high-
 </a>
 
 </div>
+
+### 🚀 Backend Developer DevOps Engineer | Django & DRF Expert | React Enthusiast
+
+I'm a self-taught full-stack developer passionate about building scalable, high-performance web applications. I enjoy tackling challenging problems and integrating DevOps practices to streamline development and deployment processes.
 
 ### 🔥 Skills & Technologies:
 - **Backend:** Django, DRF, PostgreSQL, REST APIs, NodeJs
@@ -116,10 +116,6 @@ I'm a self-taught full-stack developer passionate about building scalable, high-
 
 <a href="https://www.linkedin.com/in/sheraz8814/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-</a>
-
-<a href="https://github.com/sheraz02">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
 </a>
 
 </div>
