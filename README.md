@@ -105,9 +105,3 @@
     
 </table>
 
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sheraz02&theme=tokyonight)
