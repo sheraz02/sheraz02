@@ -1,26 +1,25 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sheraz Ahmad
 =====================================================================================================================================
 
-Backend Developer & DevOps Engineer | Node.js · NestJS · Django · AWS
+Full-Stack & DevOps Engineer | Node.js · Django · AWS · CI/CD | Building scalable AI-powered apps
 ---------------------------------------------------------------------
 
 I build scalable backend systems and production-ready APIs that don't fall apart under pressure. I care about clean architecture, solid DevOps workflows, and writing code that's easy to maintain. I've worked across the full backend stack — from designing PostgreSQL schemas to deploying containerized apps on AWS and Oracle Cloud.
 
 * 🌍  I'm based in Multan, Pakistan
 * ✉️  You can contact me at [sheraz.ahmad8814@gmail.com](mailto:sheraz.ahmad8814@gmail.com)
-* 🚀  I'm currently working on [Scalable backend systems and SaaS platforms using Node.js, NestJS, and cloud infrastructure](http://n)
-* 🧠  I'm currently learning Cloud-native development, high-performance architecture, and advanced DevOps automation
+* 🚀  I'm currently working on [Scalable backend systems and SaaS platforms using Node.js, NeXtJS, and cloud infrastructure](http://n)
+* 🧠  I'm currently learning high-performance architecture, and advanced DevOps automation
 * 👥  I'm looking to collaborate on Backend-heavy projects, open-source initiatives, SaaS platforms, and API-driven applications
-* 💬  Ask me about I actually enjoy debugging performance bottlenecks — give me a slow query and I'm happy. Ask me about Django, DRF, PostgreSQL, or scalable API design anytime.
+* 💬 Ask me about Python, Node.js, PostgreSQL, AWS, and building production-ready infrastructures. 
+* 💎 If you’re a tech person,, let’s get [connected](https://www.linkedin.com/in/sheraz8814/).
   
 
 ## 🤝🏻 &nbsp;Reach Out To  Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/zeeshan-ashraf-dev/"><img src="https://img.shields.io/badge/-Zeeshan%20Ashraf-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:m.zeeshan.ashraf.633@gmail.com"><img src="https://img.shields.io/badge/-m.zeeshan.ashraf.633@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/ZeeshanAshraf/"><img src="https://img.shields.io/badge/-Zeeshan%20Ashraf-00000?style=flat&logo=Leetcode&logoColor=yellow"/></a>
-<a href="https://www.facebook.com/zeeshan.ashraf.9699523/"><img src="https://img.shields.io/badge/-@Zeeshan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sheraz8814/"><img src="https://img.shields.io/badge/-Sheraz%20Ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:m.sheraz.ahmad8814@gmail.com"><img src="https://img.shields.io/badge/-m.sheraz.ahmad8814@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
  <h2>Tech Stack</h2>
