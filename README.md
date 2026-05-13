@@ -12,19 +12,100 @@ I build scalable backend systems and production-ready APIs that don't fall apart
 * 🧠  I'm currently learning Cloud-native development, high-performance architecture, and advanced DevOps automation
 * 👥  I'm looking to collaborate on Backend-heavy projects, open-source initiatives, SaaS platforms, and API-driven applications
 * 💬  Ask me about I actually enjoy debugging performance bottlenecks — give me a slow query and I'm happy. Ask me about Django, DRF, PostgreSQL, or scalable API design anytime.
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="52" height="52" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="52" height="52" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="52" height="52" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="52" height="52" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="52" height="52" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="52" height="52" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="52" height="52" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="52" height="52" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="52" height="52" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="52" height="52" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="52" height="52" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="52" height="52" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="52" height="52" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="52" height="52" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="52" height="52" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="52" height="52" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="52" height="52" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="52" height="52" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="52" height="52" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="52" height="52" /></a>
+  
+
+## 🤝🏻 &nbsp;Reach Out To  Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/zeeshan-ashraf-dev/"><img src="https://img.shields.io/badge/-Zeeshan%20Ashraf-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:m.zeeshan.ashraf.633@gmail.com"><img src="https://img.shields.io/badge/-m.zeeshan.ashraf.633@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/ZeeshanAshraf/"><img src="https://img.shields.io/badge/-Zeeshan%20Ashraf-00000?style=flat&logo=Leetcode&logoColor=yellow"/></a>
+<a href="https://www.facebook.com/zeeshan.ashraf.9699523/"><img src="https://img.shields.io/badge/-@Zeeshan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-### Socials
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
-<a href="https://www.linkedin.com/in/sheraz02" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48" height="48" alt="LinkedIn" /></picture></a> <a href="https://www.github.com/sheraz02" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" alt="GitHub" /></picture></a>
-</p>
+ <h2>Tech Stack</h2>
+
+<table width="80%">
+<tr>
+	<td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+    </td>
+        <td align='center' width="200">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
+    </td>
+    
 
 
-### Badges
+ <td align='center' width="150">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="100">
+    </td>
+ <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
+    </td>
+ <td align='center' width="200">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+ 
+</tr>
+ 
+<tr>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="70">
+    </td>
+    <td align='center' width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
+    </td>
+ <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
+    </td>
+	 <td align='center' width="200">
+        <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"  width="70">
+    </td>
+	</td>
+	 <td align='center' width="200">
+        <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg"  width="70">
+    </td>
 
-<b>My GitHub Stats</b>
+</tr>
+ 
+<tr>
+    <td align='center' width="200">
+        <img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg">
+    </td>
+    <td align='center' width="200">
+        <img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" >
+    </td>
+ <td align='center' width="200">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+    </td>
+  <td align='center' width="200">
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
+    </td>
+</tr>
+	
+<tr>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"  width="90">
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80">
+    </td>
+ <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="150">
+    </td>
+     <td align='center' width="200">
+        <img src="https://www.logo.wine/a/logo/Oracle_Cloud_Platform/Oracle_Cloud_Platform-Logo.wine.svg" width="90">
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
+    </td>
+</tr>
+    
+</table>
 
-<a href="http://www.github.com/sheraz02"><img src="https://github-readme-stats.vercel.app/api?username=sheraz02&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sheraz02's GitHub stats" /></a>
+
+
 
