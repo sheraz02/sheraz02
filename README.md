@@ -8,7 +8,7 @@ I build scalable backend systems and production-ready APIs that don't fall apart
 
 * 🌍  I'm based in Multan, Pakistan
 * ✉️  You can contact me at [sheraz.ahmad8814@gmail.com](mailto:sheraz.ahmad8814@gmail.com)
-* 🚀  I'm currently working on [Scalable backend systems and SaaS platforms using Node.js, NeXtJS, and cloud infrastructure](http://n)
+* 🚀  I'm currently working on Scalable backend systems and SaaS platforms using Node.js, NeXtJS, and cloud infrastructure
 * 🧠  I'm currently learning high-performance architecture, and advanced DevOps automation
 * 👥  I'm looking to collaborate on Backend-heavy projects, open-source initiatives, SaaS platforms, and API-driven applications
 * 💬 Ask me about Python, Node.js, PostgreSQL, AWS, and building production-ready infrastructures. 
