@@ -2,17 +2,17 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a full-stack developer who builds scalable backend systems and modern web apps, from cloud infrastructure down to pixel-perfect frontends. I enjoy turning complex problems into clean, maintainable code. Always exploring new tools that make development faster and products more reliable.</p>
+<p data-importer="text" align="left">I'm a senior full-stack engineer with 8+ years building production SaaS and cloud-heavy products. I work as a senior engineer and technical lead alongside startups and teams, taking end-to-end ownership — from backend architecture and APIs, through the frontend, down to AWS infrastructure and Docker-based deployments. I care about systems that stay reliable well after launch, not just demos.</p>
 
 ###
 
 <h2 data-importer="text" align="left">🛠️ Tech Stack</h2>
 
 ###
-- <b>Cloud & Infra:</b> AWS, Docker
-- <b>Backend:</b> Python (Django, Django REST Framework, FastAPI), Node.js (ExpressJS)
-- <b>Frontend:</b> Next.js, React
-- <b>Database & Backend-as-a-Service:</b> Supabase, PostgreSQL, MongoDB
+- <b>Backend & APIs</b> — Python (Django, Django REST Framework, FastAPI) and Node.js, designed to scale.
+- <b>Cloud & DevOps</b> — AWS architecture, Docker, and CI/CD with deployments you can rely on.
+- <b>Database & Backend-as-a-Service</b> — Supabase-backed data layers built for speed and reliability.
+- <b>Full-stack delivery</b> — Next.js front ends wired cleanly to the systems behind them.
   
 ###
 
