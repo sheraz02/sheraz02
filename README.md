@@ -16,6 +16,18 @@
   
 ###
 
+## 🤝🏻 &nbsp;Let's connect
+
+I'm open to senior full-stack, AWS, and AI engineering roles and projects. The best place to reach me is **[LinkedIn](https://www.linkedin.com/in/sheraz8814/)**.
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sheraz8814/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:m.sheraz.ahmad8814@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://sheraz1.medium.com/)"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=Medium&logoColor=white"/></a>
+</p>
+
+
+
 ###
 
 <div data-importer="techs" align="left">
