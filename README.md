@@ -53,3 +53,23 @@ I'm open to senior full-stack, AWS, and AI engineering roles and projects. The b
 </div>
 
 ###
+
+
+## 🤖 AI & Data
+
+**LLM & Integration**<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude (Anthropic)" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+
+**Voice & Speech**<br/>
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
+<img src="https://img.shields.io/badge/Amazon%20Transcribe-232F3E?style=flat" alt="Amazon Transcribe" />
+
+**Data Pipelines & Automation**<br/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" />
+
