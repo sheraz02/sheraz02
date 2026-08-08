@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a senior full-stack engineer with 8+ years building production SaaS and cloud-heavy products. I work as a senior engineer and technical lead alongside startups and teams, taking end-to-end ownership — from backend architecture and APIs, through the frontend, down to AWS infrastructure and Docker-based deployments. I care about systems that stay reliable well after launch, not just demos.</p>
+<p data-importer="text" align="left">I'm a senior full-stack engineer with 3+ years building production SaaS and cloud-heavy products. I work as a senior engineer and technical lead alongside startups and teams, taking end-to-end ownership — from backend architecture and APIs, through the frontend, down to AWS infrastructure and Docker-based deployments. I care about systems that stay reliable well after launch, not just demos.</p>
 
 ###
 
